@@ -1,4 +1,4 @@
-# flutter_starter
+# flutter-starter
 
 A new Flutter project.
 
